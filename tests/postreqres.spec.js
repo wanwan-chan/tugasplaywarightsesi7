@@ -11,7 +11,7 @@ test('POST request', async ({request}) => {
     }
 
     const body = {
-            "name": "alif",
+            "name": "alip rustam",
             "job": "QA Engineer"
     }
 
