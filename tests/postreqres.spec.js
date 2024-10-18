@@ -11,8 +11,8 @@ test('POST request', async ({request}) => {
     }
 
     const body = {
-            "name": "morpheus",
-            "job": "zion resident"
+            "name": "alif",
+            "job": "QA Automation"
     }
 
     const response = await request.post("https://reqres.in/api/users", {
