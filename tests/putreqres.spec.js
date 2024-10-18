@@ -6,7 +6,7 @@ const ajv = new Ajv();
 test('TC-4 PUT Object', async ({ request }) => {
 
   const body = {
-    "name": "John Doe",
+    "name": "rustam",
     "job": "Developer"
   }
 
