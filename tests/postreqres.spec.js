@@ -12,7 +12,7 @@ test('POST request', async ({request}) => {
 
     const body = {
             "name": "alif",
-            "job": "QA Automation"
+            "job": "QA Engineer"
     }
 
     const response = await request.post("https://reqres.in/api/users", {
